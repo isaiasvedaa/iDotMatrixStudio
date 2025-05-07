@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+25e23bab5b17c99e3ccf900bb2a7771a CMakeFiles/iDotMatrixStudio_autogen
+25e23bab5b17c99e3ccf900bb2a7771a CMakeFiles/iDotMatrixStudio_lrelease
+72fa55cd675ec4c2f0db2d72665c5732 CMakeFiles/iDotMatrixStudio_lupdate
+a12727be3223648240ac309d8ec2e85d iDotMatrixStudio_autogen/timestamp
+6194414718732d03dfe4e3c0d3edb73b iDotMatrixStudio_en_US.qm

@@ -1,0 +1,13 @@
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/iDotMatrixStudio.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/iDotMatrixStudio_lupdate.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/update_translations.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/iDotMatrixStudio_lrelease.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/release_translations.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/edit_cache.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/rebuild_cache.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/list_install_components.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/install.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/install/local.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/install/strip.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/iDotMatrixStudio_autogen_timestamp_deps.dir
+/Volumes/extendoCLIP/iDotMatrixStudio/build/Qt_6_6_1_Clang-Debug/CMakeFiles/iDotMatrixStudio_autogen.dir
